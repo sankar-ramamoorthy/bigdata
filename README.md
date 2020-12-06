@@ -4,7 +4,9 @@
   <img src="logo.jpg">
 </p>
 <p>
-Created a docker container based spark,yarn ,hadoop cluster with one master and two slaves.
+Created a docker image based spark,yarn ,hadoop cluster with one master and two slaves.
+to pull the docker image.
+	docker pull sramamoorthy30/team47
 
 inspired by Pierre Kieffer . https://github.com/PierreKieffer/docker-spark-yarn-cluster
 

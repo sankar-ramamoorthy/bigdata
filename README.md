@@ -1,6 +1,12 @@
 # cse6250team47
 CSE6250 Team47 Covid-19 detection/classifications of x-rays using bigdata and CNNs
 <pre>
+
+COVID-19: Automatic radiographic classification by using convolutional neural network variants.  
+Nilesh Domadia , Arnab K Giri, Sankaranarayanan Ramamoorthy and  Srimathy Thyagarajan. 
+Georgia Institute of Technology, Atlanta, Georgia, United States 
+CSE 6250 Bigdata For Health Fall 2020
+
 https://github.gatech.edu/sramamoorthy30/cse6250team47
 
 docker Image inspired by Pierre Kieffer . https://github.com/PierreKieffer/docker-spark-yarn-cluster

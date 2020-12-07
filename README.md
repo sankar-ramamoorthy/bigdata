@@ -26,6 +26,7 @@ https://github.com/agchung/Figure1-COVID-chestxray-dataset
 https://github.com/agchung/Actualmed-COVID-chestxray-dataset
 https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
+
 Create the directories
 </pre>
 ```
@@ -42,6 +43,8 @@ mkdir -p /media/data/gatech/COVID-19/X-RayImageDataSet/test/nofindings
 mkdir -p /media/data/gatech/COVID-19/X-RayImageDataSet/test/covid  
 ```
 <pre>
+use the provided code/correctname.py program to remove spaces etc in filenames of the images.
+
 upload images into the train and test directories.
 we divided the images in a 80:20 split.
 
@@ -88,3 +91,17 @@ and stop the containers
 ```
 make stop
 ```
+### software stack
+<pre>
+jupyter core     : 4.7.0
+jupyter-notebook : 6.1.5
+qtconsole        : 4.7.7
+ipython          : 7.18.1
+ipykernel        : 5.3.4
+jupyter client   : 6.1.7
+jupyter lab      : not installed
+nbconvert        : 5.6.1
+ipywidgets       : 7.5.1
+nbformat         : 5.0.8
+traitlets        : 5.0.5
+</pre>

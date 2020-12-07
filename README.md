@@ -1,5 +1,6 @@
 # cse6250team47
 CSE6250 Team47 Covid-19 detection/classifications of x-rays using bigdata and CNNs
+
 https://github.gatech.edu/sramamoorthy30/cse6250team47
 
 
@@ -91,7 +92,7 @@ and stop the containers
 ```
 make stop
 ```
-### software stack
+### software and hardware stack
 <pre>
 pyspark/spark    : 3.0.1 
 open JDK 64-bit  : 11.0.9.1
@@ -113,5 +114,13 @@ ipywidgets       : 7.5.1
 nbformat         : 5.0.8
 traitlets        : 5.0.5
 matplotlib
+
+Docker           : 19.03.13, build 4484c46d9d
+GPU 0: GeForce GTX 1080 Ti (UUID: GPU-1b19620b-0b77-71f3-14fb-bb0ebba1468f)
+NVIDIA-SMI        : 455.38       
+Driver            : 455.38       
+CUDA              : 11.1
+
+The docker image has a spark master-cluster container and two slave containers
 
 </pre>

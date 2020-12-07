@@ -1,7 +1,10 @@
 # cse6250team47
 CSE6250 Team47 Covid-19 detection/classifications of x-rays using bigdata and CNNs
-
+<pre>
 https://github.gatech.edu/sramamoorthy30/cse6250team47
+
+docker Image inspired by Pierre Kieffer . https://github.com/PierreKieffer/docker-spark-yarn-cluster
+</pre>
 
 
 #installation

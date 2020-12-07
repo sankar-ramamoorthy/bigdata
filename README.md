@@ -80,4 +80,11 @@ cd /mnt/host
 use the url provided to login to jupyter
 open the notebook ProjectPyAsANotebook
 and run all steps.
+
+When completed
+exit the container
+and stop the containers
 </pre>
+```
+make stop
+```

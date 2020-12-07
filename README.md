@@ -93,15 +93,25 @@ make stop
 ```
 ### software stack
 <pre>
+pyspark/spark    : 3.0.1 
+open JDK 64-bit  : 11.0.9.1
+hadoop           : 3.3.0 
+scala            : 2.11.12 
+conda            : 3.9.1 
+python           : 3.8.3 
+gcc              : 7.3.0 
+torch            : 1.7.0
+
 jupyter core     : 4.7.0
 jupyter-notebook : 6.1.5
 qtconsole        : 4.7.7
 ipython          : 7.18.1
 ipykernel        : 5.3.4
 jupyter client   : 6.1.7
-jupyter lab      : not installed
 nbconvert        : 5.6.1
 ipywidgets       : 7.5.1
 nbformat         : 5.0.8
 traitlets        : 5.0.5
+matplotlib
+
 </pre>

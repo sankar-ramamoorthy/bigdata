@@ -19,6 +19,7 @@ docker Image inspired by Pierre Kieffer . https://github.com/PierreKieffer/docke
 Download and Install Nvidia container runtime
 Next download the Docker image using
 docker pull sramamoorthy30/team47
+Create the following directory
 </pre>
 
 ```

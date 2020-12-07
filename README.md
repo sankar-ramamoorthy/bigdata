@@ -90,7 +90,7 @@ and run all steps.
 
 When completed
 exit the container
-and stop the containers
+and stop the containers using the following command.
 </pre>
 ```
 make stop
